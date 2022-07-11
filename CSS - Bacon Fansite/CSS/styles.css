@@ -1,0 +1,24 @@
+/* tag selector */
+h1 {
+    color: red;
+    font-size: 200px;
+}
+
+/*
+img {
+    background-color: red;
+}
+*/
+
+
+/* class selector */
+.bacon {
+    background-color: green;
+}
+
+.broccoli {
+    background-color: red;
+}
+
+
+/* id selector */
